@@ -1,0 +1,10 @@
+# ignore image formats
+*.png
+*.jpg
+*.jpeg
+*.JPG
+*.gif
+*.psd
+
+# ignore output ascii art
+output.txt
